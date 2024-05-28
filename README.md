@@ -14,17 +14,17 @@ Dưới đây là một vài ví dụ thực hành với các chức năng của
 ![image](https://github.com/tungsoi123/API_POSTMAN/assets/124906792/4e5f8948-5821-414e-8e11-91d99cdcd3b4)
 
 2. Chạy thử nghiệm với các yêu cầu khác\
-GET\
+POST\
 ![image](https://github.com/tungsoi123/API_POSTMAN/assets/124906792/45f1572a-9e3f-4c61-b3af-5ff8ebf6425c)
 
-POST\
+PUT\
 ![image](https://github.com/tungsoi123/API_POSTMAN/assets/124906792/098b73a0-8b4c-479d-90d9-ad7c3b0f19b3)
 
 DELETE\
 ![image](https://github.com/tungsoi123/API_POSTMAN/assets/124906792/f3f89ef5-ed6c-4717-839c-490cfdbde3cb)
 
-PUT\
-![image](https://github.com/tungsoi123/API_POSTMAN/assets/124906792/72caaf9f-ad90-4ffe-ab24-cb4558e4dfce)
+GET\
+![image](https://github.com/tungsoi123/API_POSTMAN/assets/124906792/4e5f8948-5821-414e-8e11-91d99cdcd3b4)
 
 3.Sử dụng các biến để lưu trữ và truy cập dữ liệu trong Postman.\
 ![image](https://github.com/tungsoi123/API_POSTMAN/assets/124906792/0324de32-d629-4a6b-b354-1fae916db674)\

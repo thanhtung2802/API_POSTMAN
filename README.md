@@ -11,4 +11,5 @@ Dưới đây là một vài ví dụ thực hành với các chức năng của
 \
 \
 1. Tạo 1 request và chạy thử 1 API
-https://github.com/tungsoi123/API_POSTMAN/blob/master/img2.jpg
+![image](https://github.com/tungsoi123/API_POSTMAN/assets/124906792/4e5f8948-5821-414e-8e11-91d99cdcd3b4)
+
